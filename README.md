@@ -23,7 +23,7 @@ The Fine Dine app is a comprehensive restaurant discovery and dining application
 
 <p align="center">
 Application's Welcome screen: <br/>
-<img src="https://imgur.com/2JioK0A" height="80%" width="80%" alt="Welcome Screen"/>
+<img src="https://imgur.com/2JioK0A.png" height="80%" width="80%" alt="Welcome Screen"/>
 <br />
 <br />
 Select the disk:  <br/>
