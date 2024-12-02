@@ -32,9 +32,9 @@ Registration and login screens:
 </div>
 Successful registration, home screen and favorites
  <div style="display: flex; justify-content: space-around;">
-    <img src="https://imgur.com/od3Zbfy.png" alt="Successful Registration" style="max-width: 35%; height: 50%;">
+    <img src="https://imgur.com/od3Zbfy.png" alt="Successful Registration" style="max-width: 25%; height: 50%;">
     <img src="https://imgur.com/ONJ4G6Q.png" alt="Home Screen" style="max-width: 25%; height: 50%;">
-    <img src="https://imgur.com/wVvN1kN.png" alt="Favotites Screen" style="max-width: 35%; height: 50%;">
+    <img src="https://imgur.com/wVvN1kN.png" alt="Favotites Screen" style="max-width: 25%; height: 50%;">
 </div>
 Logout Modal:  <br/>
 <img src="https://imgur.com/vpVADWU.png" height="50%" width="40%" alt="Logout"/>
