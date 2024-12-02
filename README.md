@@ -5,15 +5,15 @@ The Fine Dine app is a comprehensive restaurant discovery and dining application
 <br />
 
 
-<h2>Languages and IDEs Used</h2>
+<h2>Languages, IDEs and Tools Used</h2>
 
 <h3>Language</h3>
 
 - <b>JavaScript</b>
 
-<h3>Language</h3>
+<h3>IDE and Tools</h3>
 
-- <b>Diskpart</b>
+- <b>Visual Studio Code</b>
 
 <h2>Environments Used </h2>
 
@@ -26,8 +26,9 @@ Application's Welcome screen: <br/>
 <img src="https://imgur.com/2JioK0A.png" height="80%" width="80%" alt="Welcome Screen"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Registration and login screens:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Registration"/>
+ <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Login"/>
 <br />
 <br />
 Enter the number of passes: <br/>
