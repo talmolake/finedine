@@ -15,34 +15,30 @@ The Fine Dine app is a comprehensive restaurant discovery and dining application
 
 - <b>Visual Studio Code</b>
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Application walk-through and showcase:</h2>
 
 <p align="center">
-Application's Welcome screen: <br/>
+<h4>Application's Welcome screen:</h4> <br/>
 <img src="https://imgur.com/2JioK0A.png" height="50%" width="40%" alt="Welcome Screen"/>
 <br />
-Registration and login screens:  
+<h4>Registration and login screens:</h4>  
  <div style="display: flex; justify-content: space-around;">
     <img src="https://imgur.com/BU00QoR.png" alt="Registration" style="max-width: 40%; height: 50%;">
     <img src="https://imgur.com/IDJdpOL.png" alt="Login" style="max-width: 40%; height: 50%;">
 </div>
-Successful registration and home screen 
+<h4>Successful registration and home screen: </h4>
  <div style="display: flex; justify-content: space-around;">
     <img src="https://imgur.com/od3Zbfy.png" alt="Successful Registration" style="max-width: 35%; height: 50%;">
     <img src="https://imgur.com/fAarVx3.png" alt="Home Screen" style="max-width: 35%; height: 50%;">
 </div>
 
-Favourites
+<h4>Favourites</h4>
  <div style="display: flex; justify-content: space-around;">
     <img src="https://imgur.com/wVvN1kN.png" alt="Favotites Screen" style="max-width: 35%; height: 50%;">
     <img src="https://imgur.com/5L7zQg5.png" alt="Favotites Screen" style="max-width: 35%; height: 50%;">
  </div>
  
-Logout Modal:  <br/>
+<h4>Logout Modal:</h4>  <br/>
 <img src="https://imgur.com/vpVADWU.png" height="50%" width="40%" alt="Logout"/>
 <br />
 
