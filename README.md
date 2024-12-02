@@ -1,13 +1,18 @@
 <h1>Fine Dine Enterprise Application</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+The Fine Dine app is a comprehensive restaurant discovery and dining application, designed to enhance the dining experience for food enthusiasts. The app provides users with detailed information about restaurants, including their location, ratings, reviews, and menus via the use of Yelp API. Users can search for any restaurants in major cities in the world where restaurants are registered in yelp.com.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and IDEs Used</h2>
 
-- <b>PowerShell</b> 
+<h3>Language</h3>
+
+- <b>JavaScript</b>
+
+<h3>Language</h3>
+
 - <b>Diskpart</b>
 
 <h2>Environments Used </h2>
@@ -17,8 +22,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Application's Welcome screen: <br/>
+<img src="https://imgur.com/2JioK0A" height="80%" width="80%" alt="Welcome Screen"/>
 <br />
 <br />
 Select the disk:  <br/>
