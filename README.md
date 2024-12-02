@@ -26,10 +26,11 @@ Application's Welcome screen: <br/>
 <img src="https://imgur.com/2JioK0A.png" height="50%" width="40%" alt="Welcome Screen"/>
 <br />
 <br />
-Registration and login screens:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Registration"/>
- <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Login"/>
-<br />
+Registration and login screens:  
+ <div style="display: flex; justify-content: space-around;">
+    <img src="https://i.imgur.com/tcTyMUE.png" alt="Registration" style="max-width: 45%; height: auto;">
+    <img src="https://i.imgur.com/tcTyMUE.png" alt="Login" style="max-width: 45%; height: auto;">
+</div>
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
