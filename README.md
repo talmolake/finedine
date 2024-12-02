@@ -14,6 +14,9 @@ The Fine Dine app is a comprehensive restaurant discovery and dining application
 <h3>IDE and Tools</h3>
 
 - <b>Visual Studio Code</b>
+- <b>Node js</b>
+- <b>Expo go</b>
+
 
 <h2>Application walk-through and showcase:</h2>
 
