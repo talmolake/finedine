@@ -30,12 +30,18 @@ Registration and login screens:
     <img src="https://imgur.com/BU00QoR.png" alt="Registration" style="max-width: 40%; height: 50%;">
     <img src="https://imgur.com/IDJdpOL.png" alt="Login" style="max-width: 40%; height: 50%;">
 </div>
-Successful registration, home screen and favorites
+Successful registration and home screen 
  <div style="display: flex; justify-content: space-around;">
-    <img src="https://imgur.com/od3Zbfy.png" alt="Successful Registration" style="max-width: 25%; height: 50%;">
-    <img src="https://imgur.com/ONJ4G6Q.png" alt="Home Screen" style="max-width: 25%; height: 50%;">
-    <img src="https://imgur.com/wVvN1kN.png" alt="Favotites Screen" style="max-width: 25%; height: 50%;">
+    <img src="https://imgur.com/od3Zbfy.png" alt="Successful Registration" style="max-width: 35%; height: 50%;">
+    <img src="https://imgur.com/fAarVx3.png" alt="Home Screen" style="max-width: 35%; height: 50%;">
 </div>
+
+Favourites
+ <div style="display: flex; justify-content: space-around;">
+    <img src="https://imgur.com/wVvN1kN.png" alt="Favotites Screen" style="max-width: 35%; height: 50%;">
+    <img src="https://imgur.com/5L7zQg5.png" alt="Favotites Screen" style="max-width: 35%; height: 50%;">
+ </div>
+ 
 Logout Modal:  <br/>
 <img src="https://imgur.com/vpVADWU.png" height="50%" width="40%" alt="Logout"/>
 <br />
