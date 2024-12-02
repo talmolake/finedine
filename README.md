@@ -28,8 +28,8 @@ Application's Welcome screen: <br/>
 <br />
 Registration and login screens:  
  <div style="display: flex; justify-content: space-around;">
-    <img src="https://i.imgur.com/tcTyMUE.png" alt="Registration" style="max-width: 45%; height: auto;">
-    <img src="https://i.imgur.com/tcTyMUE.png" alt="Login" style="max-width: 45%; height: auto;">
+    <img src="https://imgur.com/BU00QoR.png" alt="Registration" style="max-width: 40%; height: 50%;">
+    <img src="https://imgur.com/IDJdpOL.png" alt="Login" style="max-width: 40%; height: 50%;">
 </div>
 <br />
 Enter the number of passes: <br/>
